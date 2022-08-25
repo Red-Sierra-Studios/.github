@@ -25,6 +25,7 @@ We are currently working on content for:
 #
 **🧪 Technologies we use**
 
+- Pterodactyl
 - Git
 - GitHub Actions
 - SQLite
